@@ -123,31 +123,7 @@ DevOps     : Docker • Git • Vercel • Render
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushrana1704&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# ⚡ Coding Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushrana1704&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushrana1704&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushrana1704&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushrana1704&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayushrana1704&theme=github_dark&utcOffset=5.5"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -163,17 +139,6 @@ DevOps     : Docker • Git • Vercel • Render
 
 ---
 
-# 💻 Quote I Like
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 <h2 align="center">🚀 Thanks for visiting my profile!</h2>
 
@@ -189,7 +154,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
 
----
+
 
 <div align="center">
 
