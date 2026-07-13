@@ -23,7 +23,6 @@ Building scalable AI-powered applications with FastAPI, React, TypeScript & Dock
 - 💼 Looking for **Software Engineer / Full Stack / Backend** opportunities
 - 🎯 Interested in Backend Engineering, AI Infrastructure and Developer Tools
 - 📫 Email: **ayushrana1704@gmail.com**
-- 🌐 Portfolio: **ornate-dodol-22bd4d.netlify.app/**
 - 💬 Ask me about **React, FastAPI, MERN, PostgreSQL, Docker & REST APIs**
 
 ---
@@ -44,7 +43,7 @@ Building scalable AI-powered applications with FastAPI, React, TypeScript & Dock
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://forge-ai-lac-eta.vercel.app/">
+<a href="ornate-dodol-22bd4d.netlify.appp/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
