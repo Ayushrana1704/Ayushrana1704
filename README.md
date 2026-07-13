@@ -73,19 +73,6 @@ AI         : RAG • AI Agents • Vector Search • BM25
 DevOps     : Docker • Git • Vercel • Render
 ```
 
----
-
-# 🏆 Certification
-
-☁️ Microsoft Azure AI Fundamentals (AI-900)
-
-🤖 IBM Artificial Intelligence Fundamentals
-
----
-
-
-
-
 
 <p align="center">
 
