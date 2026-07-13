@@ -23,7 +23,7 @@ Building scalable AI-powered applications with FastAPI, React, TypeScript & Dock
 - 💼 Looking for **Software Engineer / Full Stack / Backend** opportunities
 - 🎯 Interested in Backend Engineering, AI Infrastructure and Developer Tools
 - 📫 Email: **ayushrana1704@gmail.com**
-- 🌐 Portfolio: **https://forge-ai-lac-eta.vercel.app/**
+- 🌐 Portfolio: **ornate-dodol-22bd4d.netlify.app/**
 - 💬 Ask me about **React, FastAPI, MERN, PostgreSQL, Docker & REST APIs**
 
 ---
@@ -76,11 +76,7 @@ DevOps     : Docker • Git • Vercel • Render
 
 ---
 
-# 🏆 Achievements
-
-🥇 Top 10 — LIBATHON 2025 (36-hour Hackathon)
-
-🥇 Top 1% — NPTEL (100/100)
+# 🏆 Certification
 
 ☁️ Microsoft Azure AI Fundamentals (AI-900)
 
@@ -88,16 +84,7 @@ DevOps     : Docker • Git • Vercel • Render
 
 ---
 
-# 📚 Currently Learning
 
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Kubernetes
-- AWS
-- System Design
-- Distributed Systems
-
----
 
 
 
