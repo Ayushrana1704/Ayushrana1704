@@ -108,23 +108,6 @@ DevOps     : Docker • Git • Vercel • Render
 </p>
 
 
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushrana1704/Ayushrana1704/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushrana1704/Ayushrana1704/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ayushrana1704/Ayushrana1704/output/github-contribution-grid-snake.svg">
-</picture>
-
-</p>
-
----
-
-
 <h2 align="center">🚀 Thanks for visiting my profile!</h2>
 
 <h3 align="center">
