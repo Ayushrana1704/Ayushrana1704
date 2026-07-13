@@ -94,24 +94,20 @@ DevOps     : Docker • Git • Vercel • Render
 </p>
 
 
-<h2 align="center">🚀 Thanks for visiting my profile!</h2>
+<hr>
 
-<h3 align="center">
-If you like my work, consider giving a ⭐ to my repositories.
-</h3>
+<h3 align="center">✨ Thanks for Visiting ✨</h3>
 
 <p align="center">
-
-<a href="https://github.com/Ayushrana1704">
-<img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
+If you found my work interesting, consider giving a ⭐ to my repositories.
 </p>
 
+<p align="center">
+<a href="https://github.com/Ayushrana1704">
+<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-
-<div align="center">
-
-### ⚡ "Building AI-powered software that solves real-world problems."
-
-</div>
+<p align="center">
+<i>"Building AI-powered software that solves real-world problems."</i>
+</p>
